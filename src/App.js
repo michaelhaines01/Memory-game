@@ -30,13 +30,12 @@ const App = () => {
   };
 
   return (
-    <div>
-      <div>
-        <header>
-          <h1 className="title">Memory Game</h1>
-          <Scoreboard score={score} high={high} />
-        </header>
-      </div>
+    <div className="game-container">
+      <header>
+        <h1 className="title">Memory Game</h1>
+        <Scoreboard score={score} high={high} />
+      </header>
+
       {!displaybool && !gameover && <Start toggledisplay={toggledisplay} />}
       {gameover && <Gameover toggledisplay={toggledisplay} score={score} />}
 

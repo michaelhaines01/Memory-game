@@ -4,9 +4,9 @@ const Scoreboard = (props) => {
   const score = props;
 
   return (
-    <div>
-      <h2>Score {score.score}</h2>
-      <h2>High score {score.high}</h2>
+    <div className="scoreboard">
+      <h3>Score {score.score}</h3>
+      <h3>High score {score.high}</h3>
     </div>
   );
 };

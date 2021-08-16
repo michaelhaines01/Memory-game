@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Memory-game/static/css/main.09e6fb75.chunk.css",
+    "main.js": "/Memory-game/static/js/main.1d7144f6.chunk.js",
+    "main.js.map": "/Memory-game/static/js/main.1d7144f6.chunk.js.map",
+    "runtime-main.js": "/Memory-game/static/js/runtime-main.dd30d63e.js",
+    "runtime-main.js.map": "/Memory-game/static/js/runtime-main.dd30d63e.js.map",
+    "static/js/2.8d97e882.chunk.js": "/Memory-game/static/js/2.8d97e882.chunk.js",
+    "static/js/2.8d97e882.chunk.js.map": "/Memory-game/static/js/2.8d97e882.chunk.js.map",
+    "index.html": "/Memory-game/index.html",
+    "static/css/main.09e6fb75.chunk.css.map": "/Memory-game/static/css/main.09e6fb75.chunk.css.map",
+    "static/js/2.8d97e882.chunk.js.LICENSE.txt": "/Memory-game/static/js/2.8d97e882.chunk.js.LICENSE.txt",
+    "static/media/ADA.52164601.webp": "/Memory-game/static/media/ADA.52164601.webp",
+    "static/media/BAT.49d40c3c.webp": "/Memory-game/static/media/BAT.49d40c3c.webp",
+    "static/media/DEC.44e07f7f.webp": "/Memory-game/static/media/DEC.44e07f7f.webp",
+    "static/media/ENJ.6346ab2e.webp": "/Memory-game/static/media/ENJ.6346ab2e.webp",
+    "static/media/ETH.2c67966e.webp": "/Memory-game/static/media/ETH.2c67966e.webp",
+    "static/media/RUNE.36f66d9e.webp": "/Memory-game/static/media/RUNE.36f66d9e.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd30d63e.js",
+    "static/js/2.8d97e882.chunk.js",
+    "static/css/main.09e6fb75.chunk.css",
+    "static/js/main.1d7144f6.chunk.js"
+  ]
+}

@@ -13,3 +13,5 @@ I created this app to practice working with react hooks lifestyle methods and st
 * CSS
 
 [LIVE VERSION](https://michaelhaines01.github.io/Memory-game/)
+
+I built this project as part of the Odin project[Guide used](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/memory-card)
